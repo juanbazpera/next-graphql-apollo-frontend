@@ -1,0 +1,4 @@
+export const SELECT_CLIENT = 'SELECT_CLIENT';
+export const SELECT_PRODUCT = 'SELECT_PRODUCT';
+export const PRODUCTS_CANT = 'PRODUCTS_CANT';
+export const UPDATE_TOTAL = 'UPDATE_TOTAL';
